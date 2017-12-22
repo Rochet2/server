@@ -179,6 +179,4 @@
 #error "Compiler must be upgraded, see http://developer.apple.com"
 #endif /* __APPLE_CC__ */
 
-#warning "TEST panther"
-
 #endif /* ACE_CONFIG_MACOSX_H */
