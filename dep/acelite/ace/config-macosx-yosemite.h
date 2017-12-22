@@ -5,5 +5,6 @@
 #include "ace/config-macosx-mavericks.h"
 
 #undef ACE_LACKS_CLOCKID_T
+#warning "TEST yosemite"
 
 #endif // ACE_CONFIG_MACOSX_YOSEMITE_H
