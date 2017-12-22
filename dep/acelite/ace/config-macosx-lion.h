@@ -26,4 +26,6 @@
 
 #define ACE_LACKS_UCONTEXT_H
 
+#warning "TEST lion"
+
 #endif // ACE_CONFIG_MACOSX_LION_H
