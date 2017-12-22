@@ -234,4 +234,6 @@
 #error "Compiler must be upgraded, see http://developer.apple.com"
 #endif /* __APPLE_CC__ */
 
+#warning "TEST leopard"
+
 #endif /* ACE_CONFIG_MACOSX_LEOPARD_H */
