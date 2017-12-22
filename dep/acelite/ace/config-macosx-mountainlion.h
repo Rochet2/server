@@ -14,6 +14,4 @@
 
 #include "ace/config-macosx-lion.h"
 
-#warning "TEST mountainlion"
-
 #endif // ACE_CONFIG_MACOSX_MOUNTAIN_LION_H
