@@ -14,6 +14,4 @@
 
 #include "ace/config-macosx-mountainlion.h"
 
-#warning "TEST mavericks"
-
 #endif // ACE_CONFIG_MAVERICKS_H
