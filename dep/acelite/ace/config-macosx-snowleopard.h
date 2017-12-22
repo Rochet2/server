@@ -15,6 +15,4 @@
 
 #define ACE_LACKS_UCONTEXT_H
 
-#warning "TEST snowleopard"
-
 #endif // ACE_CONFIG_MACOSX_SNOWLEOPARD_H
